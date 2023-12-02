@@ -1,4 +1,3 @@
-import datetime
 import time
 import pyrogram
 from pyrogram import Client
@@ -7,11 +6,6 @@ import os
 from time import sleep
 from pyrogram.errors import FloodWait, BadRequest
 import re
-import datetime
-current_time = datetime.datetime.now().time()
-hours = current_time.hour
-minutes = current_time.minute
-seconds = current_time.second
 tok = "6100362120:AAEASUEw65Kw4JvB4sHdL-eDMj09dqLi3WQ"
 idown = "411414467" 
 qq = 0
