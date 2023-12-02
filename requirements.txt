@@ -1,5 +1,4 @@
 datetime==4.3
-time==1.0
 pyrogram==1.4.2
 requests==2.26.0
 os-sys==0.3
