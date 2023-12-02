@@ -1,1 +1,1 @@
-worker: bash main
+worker: bash main.py
